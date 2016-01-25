@@ -1,0 +1,9 @@
+#Ant properties
+#Fri May 30 11:48:25 CEST 2014
+builddate=20140530 1148
+description=testcockpit
+name=testcockpit
+releasedate=20140523 1817
+vendor=hybris
+version=5.2.0.0
+version.api=5.2.0
